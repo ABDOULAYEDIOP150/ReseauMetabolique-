@@ -1,17 +1,13 @@
-# Parties 2 et 3 : lire les fichiers, tableaux, SQL
+
 pandas>=2.0
-# Parties 4 et 5 : graphe RDF et SPARQL
 rdflib>=7.0
 SPARQLWrapper>=2.0
-# Partie 6 : analyse de graphe (hubs, chemins)
 networkx>=3.2
 # Parties 7, 8 et 9 : Spark
 pyspark==3.5.3
 # Partie 10 : API
 fastapi>=0.110
 uvicorn>=0.29
-# Partie 11 : tests
 pytest>=8.0
 httpx>=0.27
-# Lecture des modeles metaboliques SBML
 cobra>=0.29
